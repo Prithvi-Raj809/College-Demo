@@ -1,5 +1,5 @@
 # College-Demo
-Its my first project
+
 
 <!DOCTYPE html>
 <html lang="en">
